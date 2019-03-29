@@ -1,17 +1,17 @@
-# Home-Credit-Default-Risk - Group 6
+# Project Title - Home-Credit-Default-Risk
 
-## Can you predict how capable each applicant is of repaying a loan?
+## Goal- Can you predict how capable each applicant is of repaying a loan?
 
-# Introduction: Home Credit Default Risk
+# Project Introduction: Home Credit Default Risk
 
-In this notebook, we will take an initial look at the Home Credit default risk machine learning competition currently hosted on Kaggle. The
-objective of this competition is to use historical loan application data to predict whether or not an applicant will be able to repay a
-loan. This is a standard supervised classification task:
+In this notebook, we will take an initial look at the Home Credit default risk machine learning competition currently hosted on Kaggle. The objective of this competition is to use historical loan application data to predict whether or not an applicant will be able to repay a loan. This is a standard supervised classification task:
 
 * __Supervised__: The labels are included in the training data and the goal is to train a model to learn to predict the labels from the features
 * __Classification__: The label is a binary variable, 0 (will repay loan on time), 1 (will have difficulty repaying loan)
 
-# Data
+# Data to use for HCDR
+
+https://www.kaggle.com/c/home-credit-default-risk/data
 
 The data is provided by [Home Credit](http://www.homecredit.net/about-us.aspx), a service dedicated to provided lines of credit (loans) to 
 the unbanked population. Predicting whether or not a client will repay a loan or have difficulty is a critical business need, and Home
@@ -34,4 +34,14 @@ This diagram shows how all of the data is related:
 
 Moreover, we are provided with the definitions of all the columns (in `HomeCredit_columns_description.csv`) and an example of the expected submission file. 
 
-# Data --> https://www.kaggle.com/c/home-credit-default-risk/data
+# Machine Learning Algorithm
+
+# Metrics that you might use to measure success (standard metrics and domain specific metrics)
+
+# A block diagram (Gantt diagram) of the key steps involved in completing this task and timeline
+
+# Description of the pipeline steps you plan to use
+
+# List team members 
+
+# Task Distribution
