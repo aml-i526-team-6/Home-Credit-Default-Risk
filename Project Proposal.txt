@@ -1,0 +1,20 @@
+#Project Proposal
+
+#Project title - Home Credit Default Risk
+
+#Project abstract in 150 words (remember to use the STAR methodology)
+
+#Data you plan to use (HDCR)
+
+
+#Which machine learning algorithm are you considering to use and why?
+
+#Metrics that you might use to measure success (standard metrics and domain specific metrics)
+
+#A block diagram (Gantt diagram) of the key steps involved in completing this task and timeline
+
+#Description of the pipeline steps you plan to use
+
+#List team members 
+
+#Indication as to which part of the project each team member will be working on. e.g., I plan to build text-based features based on the product description and optimize random forest models using all available features and work on precision-recall measures; Naveen might sign up for processing all the numerical data (standardizing, dealing with missing values) and optimize regularized logistic regression models using all available features, and work on F-measure metrics. As a team you will need to integrate your SKlearn pipelines, your results,  your discussion, and conclusions.
