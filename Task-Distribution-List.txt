@@ -1,0 +1,24 @@
+# final-project-group 6
+M.S. Data Science at Indiana University | AML- I526 | Final Project | Group 6
+
+Schedule for HCDR Project
+Project Proposal (March 30th)
+Projects must be group-based (3 students each).
+Project description, data, metrics, baseline models, baseline pipeline, other planned pipelines
+ 
+
+Phase 1 (April 6th)
+Grab data, EDA, metrics, baseline models (baseline pipeline PLEASE) and a brief report
+Feature engineering + hyperparameter tuning; in pipeline form
+ 
+
+Phase 2 (April 20th)
+Another round of Feature engineering + hyperparameter tuning.
+Additional feature selection, ensemble methods.
+ 
+
+Final Submission (April 29th)
+Report and short video presentation (2 minute video presentation; 300 words)
+Post your presentation (video and slides) on the Canvas discussion board
+
+
